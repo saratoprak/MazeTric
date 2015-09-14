@@ -10,5 +10,9 @@ The Editor (SRC_EDT) is where you make your maze and save it. The maze can be lo
 
 The plan is to re-write it using SFML, and to add more features. 
 
+**Screenshot**
+
+![Screenshot](https://github.com/TusharRakheja/MazeTric/blob/master/Screenshot.png)
+
 Note: Make a copy of the maze file before playing it, and replace the original (now changed) with the copy later. The 
 next version will default this.
